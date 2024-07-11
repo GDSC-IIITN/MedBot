@@ -73,7 +73,7 @@ We welcome contributions from the community! To contribute to MedBot:
 
 ## License
 
-This project is started by Satyam Kumar Rai, Muin Sayyad, Raghu under the GDSC-IIITN.
+This project is started by Satyam Kumar Rai, Muin Sayyad, Raghu and Ayushmaan Singh under the GDSC-IIITN.
 
 ## Contact
 
