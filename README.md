@@ -1,8 +1,5 @@
 # MedBot
 
-
-# MedBot
-
 MedBot is an AI-powered chatbot designed to assist users with basic medical inquiries, provide personalized medical advice, and facilitate access to healthcare resources.
 
 ## Overview
@@ -83,6 +80,6 @@ This project is started by Satyam Kumar Rai, Muin Sayyad, Raghu under the GDSC-I
 For questions or feedback, please contact 
 - [Satyam Kumar Rai](mailto:bt23cse082@iiitn.ac.in)
 - [Muin Sayyad](mailto:bt23cse077@iiitn.ac.in)
-- [Ayushmaan Singh](bt23cse195@iiitn.ac.in)
+- [Ayushmaan Singh](mailto:bt23cse195@iiitn.ac.in)
 - [Raghu](mailto:bt23cse182@iiitn.ac.in)
 
